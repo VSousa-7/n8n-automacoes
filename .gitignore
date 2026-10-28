@@ -1,0 +1,5 @@
+﻿.env
+n8n_data/
+.docker/
+.DS_Store
+Thumbs.db
